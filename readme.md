@@ -69,8 +69,8 @@ AdMobのプライバシーポリシー：[https://policies.google.com/privacy](h
 
 プライバシーポリシーに関するご質問・ご意見は下記までお問い合わせください。
 
-**メールアドレス：** ai0tech0site+support@gmail.com
+**メールアドレス：** support@passmate.jp
 
 ---
 
-*最終更新日：2026年3月31日*
+*最終更新日：2026年6月7日*
